@@ -1,0 +1,15 @@
+
+<img src="images/br/presidente/alvaro-dias.jpg"> 
+<img src="images/br/presidente/cabo-daciolo.jpg"> 
+<img src="images/br/presidente/ciro-gomes.jpg"> 
+<img src="images/br/presidente/eymael.jpg"> 
+<img src="images/br/presidente/fernando-haddad.jpg"> 
+<img src="images/br/presidente/geraldo-alckmin.jpg"> 
+<img src="images/br/presidente/guilherme-boulos.jpg"> 
+<img src="images/br/presidente/henrique-meirelles.jpg"> 
+<img src="images/br/presidente/jair-bolsonaro.jpg"> 
+<img src="images/br/presidente/joao-amoedo.jpg"> 
+<img src="images/br/presidente/joao-goulart-filho.jpg"> 
+<img src="images/br/presidente/lula.jpg"> 
+<img src="images/br/presidente/marina-silva.jpg"> 
+<img src="images/br/presidente/vera.jpg">
